@@ -33,8 +33,22 @@ body, html{
 
 }
 
-.cover{
+.jumbotron-fluid{
     position: relative;
     background: url(images/cover.jpg);
     min-height: 500px;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+.jumbotron h1 {
+    color: floralwhite;
+    margin-top: 150px;
+} 
+
+.text{
+    text-align: center;
+    color: #fff;
+    font-size: 48px;
+
 }
