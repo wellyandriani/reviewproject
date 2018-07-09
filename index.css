@@ -1,6 +1,5 @@
 body, html{
-    font-family: 'Courier New', Courier, monospace;
-
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
@@ -55,7 +54,7 @@ body, html{
 .alert {
     padding: 15px;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     border: 1px solid transparent;
     border-radius: 4px;
 }
@@ -63,4 +62,16 @@ body, html{
     color: #a94442;
     background-color: #f2dede;
     border-color: #ebccd1;
+}
+
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #AD5151;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
 }
