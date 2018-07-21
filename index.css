@@ -16,7 +16,10 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     min-height: 52px;
     margin-bottom: -20px;
     border: 1px solid transparent;
+    border-radius: 0;
 }
+
+
 .navbar-inverse {
     background-color: #AD5151;
     border-color: #AD5151;
